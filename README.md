@@ -1,17 +1,23 @@
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
-</div>
 
-# Welcome To My GitHub Profile !
 
-<br/>
-<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/screen.gif" alt=" Typer" />
-</div>
-<br/>
-- ⌨️ Programming Languages I've used:
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 
-<div align="center">
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/bootstrap.svg' width='33'/> 
- <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/RaghavK16/RaghavK16/blob/master/images/git.svg' width='30'/>
-</div>
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+<p align="center">
+ 
+  <a href="https://www.linkedin.com/in/melisa-ataseven-769473228/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/@atasevenmelisa2" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  </a>
+
+</p>
+
+
+
