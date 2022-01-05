@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a </samp></h4>
@@ -19,7 +19,7 @@ Check out my repos ⬇️
   </samp>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)-->
 
 
 
