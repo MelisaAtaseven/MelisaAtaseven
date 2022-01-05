@@ -1,6 +1,6 @@
 
 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 0%" />
 
 <p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
@@ -18,6 +18,5 @@
   </a>
 
 </p>
-
 
 
